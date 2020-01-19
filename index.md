@@ -21,7 +21,7 @@
 - [GitHub](http://takeharu7.github.io)
 
 - 円達の躍動
-<iframe src="https://www.openprocessing.org/sketch/825183/embed/" width="400" height="300"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/825183/embed/" width="600" height="450"></iframe>
 
 # Contact
 - [GitHub](http://takeharu7.github.io)
