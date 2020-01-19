@@ -1,6 +1,6 @@
 ![プロフィール画像](フクモモベビー.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NVxAaPSSnHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVxAaPSSnHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - 00:12:09から出てます
 
 # About
