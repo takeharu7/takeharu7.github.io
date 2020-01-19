@@ -1,4 +1,7 @@
 ![プロフィール画像](フクモモベビー.jpg)
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/1449113056/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/1449113056">N高等学校紹介</a></noscript>
+
 # About
 ゲームが大好きな高校生です。
 
